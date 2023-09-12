@@ -1,2 +1,2 @@
-# CRUD-DataSiswa
+# DataSiswa
 Data Siswa BPVP Samarinda
